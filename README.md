@@ -1,5 +1,5 @@
 # numeryczne
-Repository consisting of maths problems with numeric methods solutions.
+Repository consisting of maths problems with numeric methods solutions written for automatic testing system.
 zad_A.cpp - calculation of selected words of the sequence
 source_B.cpp - root finder with bisection and secant method
 zad_C.cpp - fast automatic derivative
